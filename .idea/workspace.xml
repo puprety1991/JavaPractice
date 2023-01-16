@@ -35,9 +35,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P35">
-    <configuration name="P31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.P31" />
+  <component name="RunManager" selected="Application.P106">
+    <configuration name="P101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.P101" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.P32" />
+    <configuration name="P102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.P102" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.P33" />
+    <configuration name="P103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.P103" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.P34" />
+    <configuration name="P105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.P105" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replit.P35" />
+    <configuration name="P106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replit.P106" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P35" />
-        <item itemvalue="Application.P34" />
-        <item itemvalue="Application.P33" />
-        <item itemvalue="Application.P32" />
-        <item itemvalue="Application.P31" />
+        <item itemvalue="Application.P106" />
+        <item itemvalue="Application.P105" />
+        <item itemvalue="Application.P103" />
+        <item itemvalue="Application.P102" />
+        <item itemvalue="Application.P101" />
       </list>
     </recent_temporary>
   </component>
@@ -121,5 +121,21 @@
       <updated>1673823823064</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/P68.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/P90.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
