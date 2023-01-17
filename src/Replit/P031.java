@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P31 {
+public class P031 {
     /* Declare boolean variable isSunny, ask the user "Is it sunny outside?"
   Declare int temperature and ask user "What is the temperature outside?"
           **Your program should check:**

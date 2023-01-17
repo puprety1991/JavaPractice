@@ -1,6 +1,6 @@
 package Replit;
 
-public class P69 {
+public class P069 {
     //Write a program to print out the pattern:
     /*1234567
       123456

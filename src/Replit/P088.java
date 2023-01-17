@@ -1,6 +1,6 @@
 package Replit;
 
-public class P88 {
+public class P088 {
     /*In this class, you should specify the following attributes: breed, name, color, and following behaviors: bark(), run(), play().
 Create 3 different objects of it: Husky, Bulldog, Labrador with specific attributes and behaviors.
 The output of the program should be as following:
@@ -19,7 +19,7 @@ The output of the program should be as following:
     }
 
     public static void main(String[] args) {
-        P88 dog = new P88();
+        P088 dog = new P088();
         dog.name="kapil";
         dog.breed = "Husky";
         dog.color = "Red";

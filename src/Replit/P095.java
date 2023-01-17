@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P95 {
+public class P095 {
     /*Using Scanner class input string value.
 Print out the following: "The first 3 letters of \_\_\_ is ___"
 For example, if the input is "banana", your output should be: "The first 3 letters of banana is ban".

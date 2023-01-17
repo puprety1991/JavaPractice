@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P44 {
+public class P044 {
     /*Prompt user with questions: "Please enter your favorite car make"
 - if user enters  BMW -->  carOrigin = "german car"
 - if user enters  Toyota -->  carOrigin = " japanese car"

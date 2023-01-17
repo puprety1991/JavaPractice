@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P45 {
+public class P045 {
     /*Ask the user to enter any number from 1-7.
 Based on the number define the day of the week*/
     public static void main(String[] args) {

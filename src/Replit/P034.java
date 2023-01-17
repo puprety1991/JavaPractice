@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P34 {
+public class P034 {
     /*Write a program to find the largest number among three distinct numbers using nested if condition
     Please use Scanner
     class to take input from users

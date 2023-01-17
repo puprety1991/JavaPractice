@@ -1,6 +1,6 @@
 package Replit;
 
-public class P80 {
+public class P080 {
     //Write a program to double the values of every element in the array and print it out.
     //**Example Output:**`
     //2.8 4.0 6.6 4.0

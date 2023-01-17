@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P36 {
+public class P036 {
     /*
    Prompt user to input two strings : "Please enter two strings"and two integers: "Please enter two numbers"
    and make the comparisons:

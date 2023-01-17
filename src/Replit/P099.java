@@ -1,6 +1,6 @@
 package Replit;
 
-public class P99 {
+public class P099 {
     /*Write code that will take in a String input and check to see if it is a palindrome or not.
 A palindrome means that the characters are the same forwards and backwards, **ignoring spaces.**
 Examples of palindromes:

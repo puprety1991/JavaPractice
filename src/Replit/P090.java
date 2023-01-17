@@ -1,6 +1,6 @@
 package Replit;
 
-public class P90 {
+public class P090 {
     /*Create a String named s1 = "hello"  check weather string is empty or not
 Create a String named s2 = ""  check weather string is empty or not
 **Expected Output:**
@@ -17,7 +17,7 @@ true
     }
 
     public static void main(String[] args) {
-        P90 str = new P90();
+        P090 str = new P090();
         str.isEmpty();
     }
 }

@@ -1,6 +1,6 @@
 package Replit;
 
-public class P67 {
+public class P067 {
     /*Write a program to print out the pattern:
 
 1 2 3 4 5 6 7 8 9 10

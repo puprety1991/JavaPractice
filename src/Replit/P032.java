@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P32 {
+public class P032 {
   /*  Ask the user to enter his/her gender "Please enter your gender: M or F" and their age "Please enter your age"
     You have 2 conditions:
     If age is above 25, then check if a user entered F then the output should be "Woman" otherwise it should say "Man"

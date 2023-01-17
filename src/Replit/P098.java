@@ -1,6 +1,6 @@
 package Replit;
 
-public class P98 {
+public class P098 {
     /*
 Create a String given="Hello Syntax friends".
 Using String methods from given String create new String "Welcome Syntax family"

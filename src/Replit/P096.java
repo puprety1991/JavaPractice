@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P96 {
+public class P096 {
     /*You have Scanner class to input string value.
 If language is Java it should print the:
 "Java is a programming language".

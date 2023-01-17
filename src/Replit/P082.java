@@ -1,6 +1,6 @@
 package Replit;
 
-public class P82 {
+public class P082 {
     //Write a program that will print the sum of all elements in 2D array.
     //**Expected Output:**
     //-9

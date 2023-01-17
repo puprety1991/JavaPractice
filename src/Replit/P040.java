@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P40 {
+public class P040 {
     /*By using the switch statement concept please validate what is the responsibility each instructor in the syntax solution.
 First Output: "Enter name of the instructor"
 case 1: if User provided the name as Asghar as input it should show  "Will take care of Java Assignment"

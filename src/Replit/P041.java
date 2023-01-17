@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P41 {
+public class P041 {
     /*Write a program using the switch statement
 Let us consider the scenario regarding the born baby age
 First Output: "Enter the age of the Child"

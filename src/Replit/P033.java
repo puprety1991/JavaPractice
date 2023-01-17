@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P33 {
+public class P033 {
 /*    Ask the user to enter any number
     if a user enters a number and it is even, print "Value is even",
     after that it should check if the number is greater than 1000

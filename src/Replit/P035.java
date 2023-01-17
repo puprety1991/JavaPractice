@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P35 {
+public class P035 {
     /*Create a program that prompt user with question:  "Do you need a loan?"(Use a boolean)
 If the result is true then prompt user with question: "What is your credit score?". Otherwise eligibility is "Unknown"
 Based on the score define users eligibility:

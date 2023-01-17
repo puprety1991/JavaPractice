@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class P78 {
+public class P078 {
     /*Create an int array of integers with a size of 5 and input values with Scanner.
 
 Don't print prompt questions for a user.
